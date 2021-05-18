@@ -1,0 +1,12 @@
+# mplab build files
+*.o
+*.d
+
+
+# linker output
+*.map
+*.elf
+*.hex
+
+# General
+*.bak
